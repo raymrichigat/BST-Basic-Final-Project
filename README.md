@@ -9,7 +9,7 @@ Proyek ini adalah aplikasi kalkulator berbasis web yang dibuat dengan HTML, CSS,
 ## 🛠️ **Fitur Utama**
 
 - **Tampilan Interaktif:** Kalkulator ini dilengkapi dengan tombol-tombol yang mudah dioperasikan dengan desain yang menyenangkan dan warna yang menarik. 🌈
-- **Operasi Matematika:** Kalkulator ini mendukung operasi dasar seperti penambahan, pengurangan, perkalian, dan pembagian, serta operasi lainnya seperti akar kuadrat (√) dan pangkat dua (x²). ✖️➕➖
+- **Operasi Matematika:** Kalkulator ini mendukung operasi dasar seperti penambahan, pengurangan, perkalian, dan pembagian, serta operasi lainnya seperti akar kuadrat (√) dan fungsi matematika (cos, sin, tan). ✖️➕➖
 - **Tombol Kotak-Kotak yang Estetik:** Tombol dirancang dengan gaya kotak-kotak yang sesuai dengan preferensi estetika! 😍
 
 ---
