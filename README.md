@@ -18,7 +18,7 @@ Proyek ini adalah aplikasi kalkulator berbasis web yang dibuat dengan HTML, CSS,
 
 1. **Clone repo ini** ke komputer kamu dengan menjalankan perintah berikut di terminal:
     ```bash
-    [git clone https://github.com/username/simple-calculator.git](https://github.com/raymrichigat/BST-Basic-Final-Project.git)
+    git clone https://github.com/raymrichigat/BST-Basic-Final-Project.git
     ```
 
 2. **Buka file `index.html`** di browser favoritmu.
