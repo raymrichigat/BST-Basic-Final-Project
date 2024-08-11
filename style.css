@@ -33,13 +33,13 @@ body{
 }
 
 #button{
-    width: 80px; /* Make width and height equal for a circle */
+    width: 80px; 
     height: 80px;
-    border-radius: 50%; /* Set to 50% to make the button circular */
+    border-radius: 50%; 
     border: none;
     background-color: hsl(0, 0%, 30%);
     color: white;
-    font-size: 2.5rem; /* Adjust font size if necessary */
+    font-size: 2.5rem; 
     font-weight: bold;
     cursor: pointer;
     display: flex;
